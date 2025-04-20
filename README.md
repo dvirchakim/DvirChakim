@@ -2,21 +2,23 @@
 
 ## 🧠 Embedded Innovator | 🎛️ AI at the Edge | 🇮🇱 Based in Israel
 
-Welcome to my GitHub! I'm an electrical engineering student and a tech enthusiast on a mission to bring intelligence to the edge — literally.
+Welcome to my GitHub! I'm an electrical engineering student and tech enthusiast passionate about pushing intelligence to the edge — literally. Here, you'll find my projects and experiments in embedded systems and AI.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dvir-chakim/) [![GitHub followers](https://img.shields.io/github/followers/dvirchakim?style=flat&logo=github)](https://github.com/dvirchakim?tab=followers)
 
 ---
 
 ## 🛠️ What I Do
 
-- ⚙️ **Embedded Systems**: Working with Raspberry Pi, Jetson Nano, Orange Pi, Portenta X8, Nicla Voice, and more.
-- 🤖 **AI/ML at the Edge**: Deploying local models for speech recognition, image classification, wake-word detection, and real-time decision-making.
-- 📦 **Dockerized Pipelines**: I keep it clean with containerized STT, TTS, LLM models running on low-power boards.
-- 🌐 **Self-Hosted IoT Networks**: ChirpStack, MQTT, Node-RED, InfluxDB, Grafana, and custom dashboards are my playground.
-- 🎤 **Voice Assistants**: Building offline AI assistants that listen, think, and speak — no cloud needed.
+- ⚙️ **Embedded Systems**: Crafting solutions with Raspberry Pi, Jetson Nano, Orange Pi, Portenta X8, Nicla Voice, and more.
+- 🤖 **AI/ML at the Edge**: Implementing local models for speech recognition, image classification, wake-word detection, and real-time decision-making.
+- 📦 **Dockerized Pipelines**: Streamlining deployments with containerized STT, TTS, and LLM models on low-power boards.
+- 🌐 **Self-Hosted IoT Networks**: Building robust systems with ChirpStack, MQTT, Node-RED, InfluxDB, Grafana, and custom dashboards.
+- 🎤 **Voice Assistants**: Designing offline AI assistants that listen, think, and respond — completely cloud-free.
 
 ---
 
-## ⚡ Tech I Love
+## ⚡ Tech Stack
 
 - **Languages**: Python, C/C++, Bash  
 - **Platforms**: Arduino, STM32, Edge Impulse, Ubuntu, Proxmox, Yocto  
@@ -25,46 +27,53 @@ Welcome to my GitHub! I'm an electrical engineering student and a tech enthusias
 
 ---
 
-## 🔬 Ongoing Projects
+## 🔬 Current Projects
 
-- A humanoid robot with local voice interface and environmental awareness  
-- AI-powered 3D printer monitor to stop failed prints in real time  
-- RF signal classification using SDR and neural networks  
-- Dust, gas, and motion sensor suite with LoRa and Bluetooth sleep/wake logic  
-- Frigate-based smart camera server running on Jetson Nano  
-- Fully self-hosted voice assistant using Portenta X8 with Dockerized STT → LLM → TTS
-
----
-
-## 📈 Data-Driven by Design
-
-I don't just run models — I test them. I use:
-
-- Precision / Recall / F1-score evaluations  
-- Filter comparisons (Chebyshev, Butterworth, Wavelets, etc.)  
-- Real-time PSD & topograph visualizations with EEG data
+- 🤖 **Humanoid Robot**: Developing a local voice interface and environmental awareness for intuitive interaction.
+- 🖨️ **AI-Powered 3D Printer Monitor**: Real-time failure detection to save time and materials.
+- 📡 **RF Signal Classification**: Using SDR and neural networks for advanced signal analysis.
+- 🌡️ **Environmental Sensor Suite**: Dust, gas, and motion detection with LoRa and Bluetooth sleep/wake logic.
+- 📹 **Smart Camera Server**: Frigate-based surveillance system running on Jetson Nano.
+- 🗣️ **Self-Hosted Voice Assistant**: Fully offline solution with Portenta X8, leveraging Dockerized STT → LLM → TTS pipeline.
 
 ---
 
-## ❤️ Random Facts
+## 📝 Publications & Notable Works
 
-- I live near the sea — so yes, humidity is always in the equation  
-- I built my own NAS with Radxa SATA HATs, SSDs, and HDDs for data love  
-- I can explain neural nets with flip-flops and logic gates  
-- My enclosures are SCAD-modeled and STL-ready with sliding lids  
-- Sometimes I slice PETG at 24 mm³/s and dry TPU like a chemist
+- **Bridges 2022 Paper**: ["Exploring the Intersection of Mathematics and Art"](https://archive.bridgesmathart.org/2022/bridges2022-461.html#gsc.tab=0) - A study presented at the Bridges 2022 conference.
+
+---
+
+## 📈 Data-Driven Innovation
+
+I believe in rigorous testing and optimization. My approach includes:
+
+- Precision, Recall, and F1-score evaluations for model performance.
+- Advanced filter comparisons (Chebyshev, Butterworth, Wavelets, etc.).
+- Real-time PSD & topograph visualizations for EEG data analysis.
+
+---
+
+## ❤️ Fun Facts
+
+- 🌊 I live near the sea, so humidity is always a factor in my hardware designs.
+- 💾 I built a custom NAS with Radxa SATA HATs, SSDs, and HDDs for ultimate data control.
+- 🧠 I can break down neural networks using flip-flops and logic gates.
+- 🖼️ My enclosures are SCAD-modeled and STL-ready, often with sleek sliding lids.
+- 🛠️ I slice PETG at 24 mm³/s and treat TPU drying like a science experiment.
 
 ---
 
 ## 💬 Let's Connect!
 
-- Always open to collaboration, feedback, and geeky convos!  
-- Hebrew, English, and a bit of French accent — just for fun  
-- You'll usually find me deep in logs, optimizing inference speeds, or designing 3D parts on a Sunday night
+I'm always open to collaboration, feedback, and tech discussions. I communicate in Hebrew, English, and a touch of French (with an accent for flair). Catch me optimizing inference speeds, debugging logs, or designing 3D parts on a Sunday night.
+
+- 📧 Drop me a message or open an issue on any repo.
+- 🤝 Let's build something amazing together!
 
 ---
 
-### Thanks for stopping by!  
-**Check out my repos and feel free to star anything you like — or reach out if we can build something together.**  
+### Thanks for visiting!  
+**Explore my repositories, star anything that inspires you, and reach out if you'd like to collaborate.**  
 
-> "If it runs offline, in real-time, and fits on a board — I'm in."  
+> "If it runs offline, in real-time, and fits on a board — I'm all in."  
