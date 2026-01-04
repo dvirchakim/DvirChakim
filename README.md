@@ -1,5 +1,7 @@
 # Hi there, I'm Dvir Chakim! 👋
 
+https://vercel.com/dvirs-projects-8d8e22c3/dvir-portfolio
+
 ## 🧠 Embedded Innovator | 🎛️ AI at the Edge | 🇮🇱 Based in Israel
 
 Welcome to my GitHub! I'm an electrical engineering student and tech enthusiast passionate about pushing intelligence to the edge — literally. Here, you'll find my projects and experiments in embedded systems and AI.
