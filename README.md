@@ -1,6 +1,6 @@
 # Hi there, I'm Dvir Chakim! 👋
 
-https://vercel.com/dvirs-projects-8d8e22c3/dvir-portfolio
+[https://vercel.com/dvirs-projects-8d8e22c3/dvir-portfolio](https://dvir-portfolio.vercel.app/)
 
 ## 🧠 Embedded Innovator | 🎛️ AI at the Edge | 🇮🇱 Based in Israel
 
